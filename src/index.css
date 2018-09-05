@@ -1,0 +1,5 @@
+@import url("./../node_modules/bootstrap//dist/css/bootstrap.css");
+body {
+    min-height: 2000px;
+    padding-top: 70px;
+}
